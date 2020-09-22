@@ -1,0 +1,19 @@
+{
+  "name": "bgio-v99",
+  "version": "0.0.1",
+  "description": "Boardgame.io Vector 1999 Web Prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimu/bgio-v99.git"
+  },
+  "author": "Jim Urbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimu/bgio-v99/issues"
+  },
+  "homepage": "https://github.com/jimu/bgio-v99#readme"
+}
